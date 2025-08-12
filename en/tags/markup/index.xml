@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markup | Шарофиддинов Зийнатулло</title>
+    <link>https://ZiynatulloSharofiddinov.github.io/en/tags/markup/</link>
+      <atom:link href="https://ZiynatulloSharofiddinov.github.io/en/tags/markup/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markup</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZiynatulloSharofiddinov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markup</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/tags/markup/</link>
+    </image>
+    
+    <item>
+      <title>Markdown Markup Language — A Simple Way to Structure Text</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/publication/02/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-is-markdown&#34;&gt;📌 What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language created for quick and convenient text formatting. It is widely used in blogs, documentation, README files, and on platforms like GitHub or Notion.&lt;br&gt;
+The main goal of Markdown is to make text readable both in its raw form and after being converted to HTML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-features&#34;&gt;🛠 Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Headings&lt;/strong&gt; — allow you to structure text by levels.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists&lt;/strong&gt; — numbered and bulleted, to logically present information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text emphasis&lt;/strong&gt; — highlight important words or phrases using formatting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links and images&lt;/strong&gt; — easily insert hyperlinks and illustrations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quotes and dividers&lt;/strong&gt; — format notes, comments, or highlight separate text blocks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tables&lt;/strong&gt; — simplify presenting structured data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-markdown-used&#34;&gt;📚 Where is Markdown Used?&lt;/h2&gt;
+&lt;p&gt;Markdown has become a standard in many areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project documentation&lt;/strong&gt; — developers use it to describe code and instructions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blogs and articles&lt;/strong&gt; — simplifies the process of publishing content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notes and planning&lt;/strong&gt; — convenient for structuring ideas and tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational materials&lt;/strong&gt; — helps visually organize learning content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages&#34;&gt;🚀 Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplicity and intuitive syntax.&lt;/li&gt;
+&lt;li&gt;Text readability without conversion.&lt;/li&gt;
+&lt;li&gt;Easy integration into various platforms and systems.&lt;/li&gt;
+&lt;li&gt;Minimal dependency on complex editors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;💡 Conclusion&lt;/h2&gt;
+&lt;p&gt;Markdown is a tool that combines simplicity and functionality. It helps to quickly and neatly format text while keeping it readable in any form.&lt;br&gt;
+For those who often work with texts and documentation, knowledge of Markdown becomes a real advantage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

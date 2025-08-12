@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Шарофиддинов Зийнатулло</title>
+    <link>https://ZiynatulloSharofiddinov.github.io/en/</link>
+      <atom:link href="https://ZiynatulloSharofiddinov.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Шарофиддинов Зийнатулло</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZiynatulloSharofiddinov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Шарофиддинов Зийнатулло</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Digital Minimalism — A Path to Mindful Technology Use</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/publication/05/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/publication/05/</guid>
+      <description>&lt;h2 id=&#34;-what-is-digital-minimalism&#34;&gt;📌 What is Digital Minimalism?&lt;/h2&gt;
+&lt;p&gt;Digital minimalism is an approach to technology use in which we keep only those digital tools and devices that truly provide value and help us achieve our goals.&lt;br&gt;
+The essence of the method is to eliminate unnecessary apps, notifications, and information noise to focus on what matters most.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-core-principles&#34;&gt;🛠 Core Principles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mindfulness&lt;/strong&gt; — every digital tool should have a clear purpose and deliver tangible benefits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reducing distractions&lt;/strong&gt; — minimize notifications, redundant apps, and subscriptions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prioritizing real communication&lt;/strong&gt; — technology should assist but not replace in-person interaction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quality over quantity&lt;/strong&gt; — it’s better to use one reliable tool than a dozen mediocre ones.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-benefits-of-digital-minimalism&#34;&gt;📚 Benefits of Digital Minimalism&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Increased focus&lt;/strong&gt; — fewer distractions, more attention to important tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduced stress&lt;/strong&gt; — the constant flow of information no longer feels overwhelming.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time savings&lt;/strong&gt; — less wasted time on social media and messengers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved productivity&lt;/strong&gt; — mental resources are directed toward priority work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-to-implement-digital-minimalism&#34;&gt;💡 How to Implement Digital Minimalism?&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Audit your apps and remove the unnecessary ones.&lt;/li&gt;
+&lt;li&gt;Disable non-essential notifications.&lt;/li&gt;
+&lt;li&gt;Set specific times for checking emails and messengers.&lt;/li&gt;
+&lt;li&gt;Limit content consumption to truly useful material.&lt;/li&gt;
+&lt;li&gt;Maintain order in your digital space — on your desktop, in folders, and in cloud storage.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Digital minimalism doesn’t require a complete rejection of technology — it suggests making it our ally rather than a source of chaos.&lt;br&gt;
+It’s a path to a calmer, more productive, and meaningful life in today’s world, where every click and notification matters.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown Markup Language — A Simple Way to Structure Text</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/publication/02/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/publication/02/</guid>
+      <description>&lt;h2 id=&#34;-what-is-markdown&#34;&gt;📌 What is Markdown?&lt;/h2&gt;
+&lt;p&gt;Markdown is a lightweight markup language created for quick and convenient text formatting. It is widely used in blogs, documentation, README files, and on platforms like GitHub or Notion.&lt;br&gt;
+The main goal of Markdown is to make text readable both in its raw form and after being converted to HTML.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-features&#34;&gt;🛠 Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Headings&lt;/strong&gt; — allow you to structure text by levels.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lists&lt;/strong&gt; — numbered and bulleted, to logically present information.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text emphasis&lt;/strong&gt; — highlight important words or phrases using formatting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Links and images&lt;/strong&gt; — easily insert hyperlinks and illustrations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quotes and dividers&lt;/strong&gt; — format notes, comments, or highlight separate text blocks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tables&lt;/strong&gt; — simplify presenting structured data.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-where-is-markdown-used&#34;&gt;📚 Where is Markdown Used?&lt;/h2&gt;
+&lt;p&gt;Markdown has become a standard in many areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project documentation&lt;/strong&gt; — developers use it to describe code and instructions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blogs and articles&lt;/strong&gt; — simplifies the process of publishing content.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notes and planning&lt;/strong&gt; — convenient for structuring ideas and tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educational materials&lt;/strong&gt; — helps visually organize learning content.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-advantages&#34;&gt;🚀 Advantages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Simplicity and intuitive syntax.&lt;/li&gt;
+&lt;li&gt;Text readability without conversion.&lt;/li&gt;
+&lt;li&gt;Easy integration into various platforms and systems.&lt;/li&gt;
+&lt;li&gt;Minimal dependency on complex editors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;💡 Conclusion&lt;/h2&gt;
+&lt;p&gt;Markdown is a tool that combines simplicity and functionality. It helps to quickly and neatly format text while keeping it readable in any form.&lt;br&gt;
+For those who often work with texts and documentation, knowledge of Markdown becomes a real advantage.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic (Wowchemy/Hugo Blox)</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-purpose-of-the-website&#34;&gt;🎯 Purpose of the Website&lt;/h2&gt;
+&lt;p&gt;A personal academic website serves as a centralized profile: a brief biography, list of publications, projects, teaching activities, presentations, and contact details. The &lt;strong&gt;Hugo Academic&lt;/strong&gt; ecosystem evolved into &lt;strong&gt;Wowchemy&lt;/strong&gt;, and later into &lt;strong&gt;Hugo Blox&lt;/strong&gt;, maintaining its focus on academic content and a “block-based” page-building approach without programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-structure-of-the-website&#34;&gt;🧱 Structure of the Website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home (About):&lt;/strong&gt; photo, short bio, research interests, profile links. Academic/Wowchemy templates come with pre-configured sections for this.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications:&lt;/strong&gt; article cards with types, abstracts, DOI/ArXiv/SSRN, BibTeX, and filters.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching:&lt;/strong&gt; courses, syllabi, lecture materials.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects:&lt;/strong&gt; research descriptions, grants, and open-source work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talks:&lt;/strong&gt; conferences, seminars, slides, and recordings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog/Notes:&lt;/strong&gt; news, preprints, short updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact:&lt;/strong&gt; form, e-mail, social media, map.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ready-to-use “Academic Resume” starter templates and demos show what it looks like out of the box.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-no-code-structure-customization&#34;&gt;🔧 No-Code Structure Customization&lt;/h2&gt;
+&lt;p&gt;The platform uses &lt;strong&gt;blocks&lt;/strong&gt; (visual sections) and theme parameters: color schemes, fonts, icons, menus, and metadata. Most configuration is done via settings and content files, while documents and pages are added as “cards” in the corresponding sections.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Theme and palette:&lt;/strong&gt; choose and fine-tune color schemes, dark/light mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Menu and navigation:&lt;/strong&gt; top menu items, breadcrumbs, section shortcuts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content modules:&lt;/strong&gt; bio, publications, courses, projects — enabled and rearranged as needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publishing-the-website&#34;&gt;🚀 Publishing the Website&lt;/h2&gt;
+&lt;p&gt;There are quick deployment options without manual building:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Pages / GitLab Pages:&lt;/strong&gt; repository with a starter template and automatic publishing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Netlify and similar services:&lt;/strong&gt; connect to the repository and automatically rebuild the site on each commit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publications-and-open-science&#34;&gt;📚 Publications and Open Science&lt;/h2&gt;
+&lt;p&gt;The “Academic”/“Hugo Blox” template is optimized for academic profiles: supports publication types, tags, DOI links, citation imports, and metrics display — making it convenient for showcasing research and open-access works.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personalization-and-best-practices&#34;&gt;🎨 Personalization and Best Practices&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Consistent tone and visual style:&lt;/strong&gt; covers, icons, typography.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear URL and metadata structure:&lt;/strong&gt; correct titles, descriptions, language settings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus on relevance:&lt;/strong&gt; keep “Publications” and “News” sections updated; archive outdated events.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility and speed:&lt;/strong&gt; minimize heavy images; use previews.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profiles and integrations:&lt;/strong&gt; add ORCID/Google Scholar/GitHub to connect the site with academic activity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-when-to-choose-hugo-academic--hugo-blox&#34;&gt;🧭 When to Choose Hugo Academic / Hugo Blox&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You need a &lt;strong&gt;structured academic profile&lt;/strong&gt; with publications, courses, and talks ready out of the box.&lt;/li&gt;
+&lt;li&gt;You value &lt;strong&gt;security and portability&lt;/strong&gt;: a static site without a server-side component.&lt;/li&gt;
+&lt;li&gt;You want &lt;strong&gt;customization without programming&lt;/strong&gt;: blocks and themes without complex front-end work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;The platform, which originated as &lt;strong&gt;Hugo Academic&lt;/strong&gt; and evolved into &lt;strong&gt;Wowchemy/Hugo Blox&lt;/strong&gt;, provides researchers with a quick start and deep personalization without unnecessary complexity. The result is a fast, stable, and professionally designed site focused on publications, teaching, and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report Formatting — Structure and Key Elements</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/publication/03/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/publication/03/</guid>
+      <description>&lt;h2 id=&#34;-why-is-proper-formatting-important&#34;&gt;📌 Why is Proper Formatting Important?&lt;/h2&gt;
+&lt;p&gt;A well-formatted report makes information easier to understand, demonstrates attention to detail, and increases trust in the presented data.&lt;br&gt;
+A clear structure allows readers to quickly find the necessary sections and better understand the logic of the content.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-main-sections-of-a-report&#34;&gt;🛠 Main Sections of a Report&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Title Page&lt;/strong&gt;&lt;br&gt;
+Contains the title of the work, the author’s full name, the educational institution or organization, the date, and the place of preparation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;br&gt;
+A list of sections with page numbers for easier navigation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;br&gt;
+A brief description of the goal, objectives, and relevance of the work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Main Body&lt;/strong&gt;&lt;br&gt;
+A detailed presentation of the material, divided into logical blocks or chapters. This section includes facts, calculations, analysis, and reasoning.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;br&gt;
+Final conclusions, results of the work, and recommendations.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;br&gt;
+A list of sources used in the preparation of the report, formatted according to the required standards.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Appendices&lt;/strong&gt; (if necessary)&lt;br&gt;
+Additional materials: tables, graphs, diagrams, drawings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-formatting-recommendations&#34;&gt;📚 Formatting Recommendations&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Consistent style&lt;/strong&gt; — uniform fonts, heading sizes, and spacing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Page numbering&lt;/strong&gt; — starting from the first section (excluding the title page).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear heading hierarchy&lt;/strong&gt; — for ease of reading.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visual clarity&lt;/strong&gt; — use tables, graphs, and charts to present data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accuracy and conciseness&lt;/strong&gt; — avoid unnecessary words, use simple and clear wording.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;A report is not just a set of text and data, but a structured document that reflects the results of work.&lt;br&gt;
+Proper formatting helps convey information as clearly and convincingly as possible, which is especially important in academic and professional projects.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages — Tools for Research and Data Analysis</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/publication/04/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/publication/04/</guid>
+      <description>&lt;h2 id=&#34;-what-are-scientific-programming-languages&#34;&gt;📌 What Are Scientific Programming Languages?&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are languages developed or adapted to solve tasks related to mathematical modeling, computational mathematics, data processing, and the automation of scientific research.&lt;br&gt;
+They are designed for high-precision calculations, convenient work with large datasets, and access to specialized libraries.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-features&#34;&gt;🛠 Key Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;High calculation precision&lt;/strong&gt; — support for high-precision floating-point numbers.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rich library ecosystem&lt;/strong&gt; — ready-made modules for working with mathematics, statistics, graphics, and simulations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parallel computing support&lt;/strong&gt; — to speed up the processing of large-scale tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integration capabilities&lt;/strong&gt; with other languages and tools.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-popular-languages&#34;&gt;🔬 Popular Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fortran&lt;/strong&gt; — one of the oldest languages, widely used in engineering calculations, physics, and climate modeling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MATLAB&lt;/strong&gt; — used for numerical analysis, signal processing, matrix operations, and data visualization.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;R&lt;/strong&gt; — a language for statistical analysis and data visualization, in demand in bioinformatics, economics, and social sciences.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python&lt;/strong&gt; — a versatile language with powerful libraries (NumPy, SciPy, Pandas), widely applied in scientific research.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Julia&lt;/strong&gt; — a modern language that combines high performance with a user-friendly syntax for numerical computing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-application-areas&#34;&gt;📚 Application Areas&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathematical modeling and simulations.&lt;/li&gt;
+&lt;li&gt;Big data analysis and statistics.&lt;/li&gt;
+&lt;li&gt;Image and signal processing.&lt;/li&gt;
+&lt;li&gt;Scientific publications with automatically generated graphs and calculations.&lt;/li&gt;
+&lt;li&gt;Machine learning and artificial intelligence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Scientific programming languages are essential tools for researchers, engineers, and analysts.&lt;br&gt;
+The choice of a particular language depends on the project’s goals, performance requirements, and ease of development, but knowing several of them significantly expands possibilities in both scientific and applied work.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control with Git — Basics and Importance</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/publication/01/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-why-is-git-important&#34;&gt;📌 Why is Git Important?&lt;/h2&gt;
+&lt;p&gt;Git is a version control system that helps developers track changes in projects, preserve the work history, and coordinate collaborative efforts.&lt;br&gt;
+In modern teams, it’s nearly impossible to work effectively without such tools: they allow the development process to be organized so that no work is lost and any previous version of the project can be restored at any time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-features-of-git&#34;&gt;🛠 Key Features of Git&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Change history&lt;/strong&gt; — every stage of development is recorded, allowing you to easily see who changed what and when.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parallel work&lt;/strong&gt; — multiple team members can work on different parts of the project simultaneously without interfering with each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branching and merging&lt;/strong&gt; — new features or fixes are developed in separate branches, making the process safer and more manageable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backup&lt;/strong&gt; — a repository can be stored in the cloud or on a local server, ensuring data protection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-role-in-teamwork&#34;&gt;🤝 Role in Teamwork&lt;/h2&gt;
+&lt;p&gt;Git is especially valuable in collaborative development. It helps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid conflicts when changes to the same file are made simultaneously.&lt;/li&gt;
+&lt;li&gt;Conduct code reviews before adding changes to the main branch.&lt;/li&gt;
+&lt;li&gt;Maintain order and structure in a project, even with a large number of contributors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Git is not just a tool — it’s a whole development philosophy based on transparency, control, and team efficiency.&lt;br&gt;
+Mastering its principles greatly simplifies working on projects and improves the quality of the final product.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preparing for the New Semester</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/post/05/</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/post/05/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-23-to-july-29&#34;&gt;📌 Week from July 23 to July 29&lt;/h2&gt;
+&lt;p&gt;The vacation is reaching its midpoint, and I decided to do a bit of preparation for the upcoming semester. I made a list of subjects to be studied and found several online courses to deepen my knowledge in databases and analytics.&lt;/p&gt;
+&lt;p&gt;I also disassembled my laptop, cleaned the cooling system, and updated some software — now the equipment is ready for new workloads.&lt;/p&gt;
+&lt;p&gt;Little by little, I can feel the anticipation of returning to the university atmosphere.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trip to Nature</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/post/04/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-16-to-july-22&#34;&gt;📌 Week from July 16 to July 22&lt;/h2&gt;
+&lt;p&gt;This week was spent outdoors — my friends and I went out of town. Tents, a campfire, evening conversations, and a starry sky — exactly what was needed after an intense academic year.&lt;/p&gt;
+&lt;p&gt;During the day, we swam in the lake and went boating, and in the evening, we experimented with a bit of campfire cooking.&lt;/p&gt;
+&lt;p&gt;Trips like this help to reset and return to tasks with renewed energy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Summer Projects and Self-Development</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/post/03/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-9-to-july-15&#34;&gt;📌 Week from July 9 to July 15&lt;/h2&gt;
+&lt;p&gt;This week, I started working on a small project — a chatbot for automating simple tasks. I’m using Python and a library for message processing.&lt;/p&gt;
+&lt;p&gt;At the same time, I’m reading a book on algorithms that I didn’t manage to fully cover during the semester. It’s fascinating to see how the theory studied at the university is now applied to real-world problems.&lt;/p&gt;
+&lt;p&gt;Even though the vacation is in full swing, I try to dedicate a couple of hours a day to studying and practice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Day of Vacation — Long-Awaited Rest</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/post/02/</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-2-to-july-8&#34;&gt;📌 Week from July 2 to July 8&lt;/h2&gt;
+&lt;p&gt;The exam session has finally ended, and the long-awaited summer vacation has begun. The very first thing I did was simply sleep in without an alarm.&lt;/p&gt;
+&lt;p&gt;I met up with friends in the park — we walked around and recalled the funniest moments of the past semester. The weather is perfect — it’s the best time for walks and trips out of town.&lt;/p&gt;
+&lt;p&gt;I’ve planned a few small programming projects for July to stay in shape, but for now, I’m just enjoying my free time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Session — Final Push Before the Holidays</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/post/01/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-from-june-25-to-july-1&#34;&gt;📌 Week from June 25 to July 1&lt;/h2&gt;
+&lt;p&gt;The week was spent in full concentration mode — the exam session was in full swing. The exams in economics and computer science turned out to be more challenging than expected: I had to dedicate a lot of time to reviewing lectures and solving past years’ problems.&lt;/p&gt;
+&lt;p&gt;The algorithms exam was especially memorable — one of the tasks involved code optimization, and the solution came literally a couple of minutes before the end. The adrenaline was off the charts!&lt;/p&gt;
+&lt;p&gt;Despite the fatigue, there’s a real sense of satisfaction from the work done. Only a couple more subjects left — and then I can finally relax.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn JavaScript</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/teaching/js/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/teaching/js/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
+&lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
+&lt;p&gt;Teach your course by sharing videos with your students. Choose from one of the following approaches:&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili id=&amp;quot;BV1WV4y1r7DF&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Video file&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Videos may be added to a page by either placing them in your &lt;code&gt;assets/media/&lt;/code&gt; media library or in your &lt;a href=&#34;https://gohugo.io/content-management/page-bundles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page&amp;rsquo;s folder&lt;/a&gt;, and then embedding them with the &lt;em&gt;video&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; video src=&amp;quot;my_video.mp4&amp;quot; controls=&amp;quot;yes&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;podcast&#34;&gt;Podcast&lt;/h2&gt;
+&lt;p&gt;You can add a podcast or music to a page by placing the MP3 file in the page&amp;rsquo;s folder or the media library folder and then embedding the audio on your page with the &lt;em&gt;audio&lt;/em&gt; shortcode:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; audio src=&amp;quot;ambient-piano.mp3&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Try it out:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
+&lt;p&gt;Provide a simple yet fun self-assessment by revealing the solutions to challenges with the &lt;code&gt;spoiler&lt;/code&gt; shortcode:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;text&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;👉 Click to view the solution&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;You found me!
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;spoiler&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-2&#34;&gt;
+  &lt;summary class=&#34;cursor-pointer&#34;&gt;👉 Click to view the solution&lt;/summary&gt;
+  &lt;div class=&#34;rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2&#34;&gt;
+    You found me 🎉
+  &lt;/div&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;{{&amp;lt; math &amp;gt;}}$...${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; or &lt;code&gt;{{&amp;lt; math &amp;gt;}}$$...$${{&amp;lt; /math &amp;gt;}}&lt;/code&gt;, respectively.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;We wrap the LaTeX math in the Hugo Blox &lt;em&gt;math&lt;/em&gt; shortcode to prevent Hugo rendering our math as Markdown.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\gamma&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\frac&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{ &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; | &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n} &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^T &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; x_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; |}{&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\left&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\nabla&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; F&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\mathbf&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{x}_{n&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\right&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\|&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;^&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;{{&amp;lt; math &amp;gt;}}$\nabla F(\mathbf{x}_{n})${{&amp;lt; /math &amp;gt;}}&lt;/code&gt; renders as $\nabla F(\mathbf{x}_{n})$
+.&lt;/p&gt;
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the math linebreak (&lt;code&gt;\\&lt;/code&gt;):&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-latex&#34; data-lang=&#34;latex&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;sb&#34;&gt;$$&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;f&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;k;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\begin&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;, &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\\&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;p_{&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;}^{&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;} &amp;amp; &lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\text&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{if }k&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;\end&lt;/span&gt;&lt;span class=&#34;nb&#34;&gt;{cases}&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;$$&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;{{&lt;/span&gt;&amp;lt; /math &amp;gt;&lt;span class=&#34;nb&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+
+
+$$
+f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} &amp; \text{if }k=1, \\
+1-p_{0}^{*} &amp; \text{if }k=0.\end{cases}
+$$
+
+
+
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;p&gt;Hugo Blox Builder utilises Hugo&amp;rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the &lt;code&gt;config/_default/params.yaml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pandas&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;as&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;pd&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;pd&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;read_csv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;data.csv&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;data&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;inline-images&#34;&gt;Inline Images&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;{{&amp;lt;&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;icon&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;python&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;}}&lt;/span&gt; &lt;span class=&#34;nx&#34;&gt;Python&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
+&lt;p&gt;
+  &lt;span class=&#34;inline-block  pr-1&#34;&gt;
+    &lt;svg style=&#34;height: 1em; transform: translateY(0.1em);&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; height=&#34;1em&#34; viewBox=&#34;0 0 448 512&#34; fill=&#34;currentColor&#34;&gt;&lt;path d=&#34;M439.8 200.5c-7.7-30.9-22.3-54.2-53.4-54.2h-40.1v47.4c0 36.8-31.2 67.8-66.8 67.8H172.7c-29.2 0-53.4 25-53.4 54.3v101.8c0 29 25.2 46 53.4 54.3 33.8 9.9 66.3 11.7 106.8 0 26.9-7.8 53.4-23.5 53.4-54.3v-40.7H226.2v-13.6h160.2c31.1 0 42.6-21.7 53.4-54.2 11.2-33.5 10.7-65.7 0-108.6zM286.2 404c11.1 0 20.1 9.1 20.1 20.3 0 11.3-9 20.4-20.1 20.4-11 0-20.1-9.2-20.1-20.4.1-11.3 9.1-20.3 20.1-20.3zM167.8 248.1h106.8c29.7 0 53.4-24.5 53.4-54.3V91.9c0-29-24.4-50.7-53.4-55.6-35.8-5.9-74.7-5.6-106.8.1-45.2 8-53.4 24.7-53.4 55.6v40.7h106.9v13.6h-147c-31.1 0-58.3 18.7-66.8 54.2-9.8 40.7-10.2 66.1 0 108.6 7.6 31.6 25.7 54.2 56.8 54.2H101v-48.8c0-35.3 30.5-66.4 66.8-66.4zm-6.7-142.6c-11.1 0-20.1-9.1-20.1-20.3.1-11.3 9-20.4 20.1-20.4 11 0 20.1 9.2 20.1 20.4s-9 20.3-20.1 20.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt; Python&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

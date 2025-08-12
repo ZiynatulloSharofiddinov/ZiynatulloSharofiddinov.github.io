@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Шарофиддинов Зийнатулло</title>
+    <link>https://ZiynatulloSharofiddinov.github.io/en/project/</link>
+      <atom:link href="https://ZiynatulloSharofiddinov.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZiynatulloSharofiddinov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Personal Academic Website with Hugo Academic (Wowchemy/Hugo Blox)</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/project/hugo/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;-purpose-of-the-website&#34;&gt;🎯 Purpose of the Website&lt;/h2&gt;
+&lt;p&gt;A personal academic website serves as a centralized profile: a brief biography, list of publications, projects, teaching activities, presentations, and contact details. The &lt;strong&gt;Hugo Academic&lt;/strong&gt; ecosystem evolved into &lt;strong&gt;Wowchemy&lt;/strong&gt;, and later into &lt;strong&gt;Hugo Blox&lt;/strong&gt;, maintaining its focus on academic content and a “block-based” page-building approach without programming.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-structure-of-the-website&#34;&gt;🧱 Structure of the Website&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Home (About):&lt;/strong&gt; photo, short bio, research interests, profile links. Academic/Wowchemy templates come with pre-configured sections for this.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications:&lt;/strong&gt; article cards with types, abstracts, DOI/ArXiv/SSRN, BibTeX, and filters.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching:&lt;/strong&gt; courses, syllabi, lecture materials.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects:&lt;/strong&gt; research descriptions, grants, and open-source work.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talks:&lt;/strong&gt; conferences, seminars, slides, and recordings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog/Notes:&lt;/strong&gt; news, preprints, short updates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact:&lt;/strong&gt; form, e-mail, social media, map.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The ready-to-use “Academic Resume” starter templates and demos show what it looks like out of the box.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-no-code-structure-customization&#34;&gt;🔧 No-Code Structure Customization&lt;/h2&gt;
+&lt;p&gt;The platform uses &lt;strong&gt;blocks&lt;/strong&gt; (visual sections) and theme parameters: color schemes, fonts, icons, menus, and metadata. Most configuration is done via settings and content files, while documents and pages are added as “cards” in the corresponding sections.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Theme and palette:&lt;/strong&gt; choose and fine-tune color schemes, dark/light mode.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Menu and navigation:&lt;/strong&gt; top menu items, breadcrumbs, section shortcuts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content modules:&lt;/strong&gt; bio, publications, courses, projects — enabled and rearranged as needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publishing-the-website&#34;&gt;🚀 Publishing the Website&lt;/h2&gt;
+&lt;p&gt;There are quick deployment options without manual building:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Pages / GitLab Pages:&lt;/strong&gt; repository with a starter template and automatic publishing.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Netlify and similar services:&lt;/strong&gt; connect to the repository and automatically rebuild the site on each commit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-publications-and-open-science&#34;&gt;📚 Publications and Open Science&lt;/h2&gt;
+&lt;p&gt;The “Academic”/“Hugo Blox” template is optimized for academic profiles: supports publication types, tags, DOI links, citation imports, and metrics display — making it convenient for showcasing research and open-access works.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-personalization-and-best-practices&#34;&gt;🎨 Personalization and Best Practices&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Consistent tone and visual style:&lt;/strong&gt; covers, icons, typography.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear URL and metadata structure:&lt;/strong&gt; correct titles, descriptions, language settings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus on relevance:&lt;/strong&gt; keep “Publications” and “News” sections updated; archive outdated events.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Accessibility and speed:&lt;/strong&gt; minimize heavy images; use previews.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profiles and integrations:&lt;/strong&gt; add ORCID/Google Scholar/GitHub to connect the site with academic activity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-when-to-choose-hugo-academic--hugo-blox&#34;&gt;🧭 When to Choose Hugo Academic / Hugo Blox&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;You need a &lt;strong&gt;structured academic profile&lt;/strong&gt; with publications, courses, and talks ready out of the box.&lt;/li&gt;
+&lt;li&gt;You value &lt;strong&gt;security and portability&lt;/strong&gt;: a static site without a server-side component.&lt;/li&gt;
+&lt;li&gt;You want &lt;strong&gt;customization without programming&lt;/strong&gt;: blocks and themes without complex front-end work.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;✅ Conclusion&lt;/h2&gt;
+&lt;p&gt;The platform, which originated as &lt;strong&gt;Hugo Academic&lt;/strong&gt; and evolved into &lt;strong&gt;Wowchemy/Hugo Blox&lt;/strong&gt;, provides researchers with a quick start and deep personalization without unnecessary complexity. The result is a fast, stable, and professionally designed site focused on publications, teaching, and projects.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

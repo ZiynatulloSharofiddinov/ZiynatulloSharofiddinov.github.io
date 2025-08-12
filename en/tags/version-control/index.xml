@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Version-Control | Шарофиддинов Зийнатулло</title>
+    <link>https://ZiynatulloSharofiddinov.github.io/en/tags/version-control/</link>
+      <atom:link href="https://ZiynatulloSharofiddinov.github.io/en/tags/version-control/index.xml" rel="self" type="application/rss+xml" />
+    <description>Version-Control</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZiynatulloSharofiddinov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Version-Control</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/tags/version-control/</link>
+    </image>
+    
+    <item>
+      <title>Version Control with Git — Basics and Importance</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/publication/01/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;-why-is-git-important&#34;&gt;📌 Why is Git Important?&lt;/h2&gt;
+&lt;p&gt;Git is a version control system that helps developers track changes in projects, preserve the work history, and coordinate collaborative efforts.&lt;br&gt;
+In modern teams, it’s nearly impossible to work effectively without such tools: they allow the development process to be organized so that no work is lost and any previous version of the project can be restored at any time.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-key-features-of-git&#34;&gt;🛠 Key Features of Git&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Change history&lt;/strong&gt; — every stage of development is recorded, allowing you to easily see who changed what and when.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Parallel work&lt;/strong&gt; — multiple team members can work on different parts of the project simultaneously without interfering with each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Branching and merging&lt;/strong&gt; — new features or fixes are developed in separate branches, making the process safer and more manageable.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backup&lt;/strong&gt; — a repository can be stored in the cloud or on a local server, ensuring data protection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-role-in-teamwork&#34;&gt;🤝 Role in Teamwork&lt;/h2&gt;
+&lt;p&gt;Git is especially valuable in collaborative development. It helps:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid conflicts when changes to the same file are made simultaneously.&lt;/li&gt;
+&lt;li&gt;Conduct code reviews before adding changes to the main branch.&lt;/li&gt;
+&lt;li&gt;Maintain order and structure in a project, even with a large number of contributors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-conclusion&#34;&gt;🚀 Conclusion&lt;/h2&gt;
+&lt;p&gt;Git is not just a tool — it’s a whole development philosophy based on transparency, control, and team efficiency.&lt;br&gt;
+Mastering its principles greatly simplifies working on projects and improves the quality of the final product.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

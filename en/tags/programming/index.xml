@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming | Шарофиддинов Зийнатулло</title>
+    <link>https://ZiynatulloSharofiddinov.github.io/en/tags/programming/</link>
+      <atom:link href="https://ZiynatulloSharofiddinov.github.io/en/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>Programming</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZiynatulloSharofiddinov.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Programming</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/tags/programming/</link>
+    </image>
+    
+    <item>
+      <title>Summer Projects and Self-Development</title>
+      <link>https://ZiynatulloSharofiddinov.github.io/en/post/03/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://ZiynatulloSharofiddinov.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-week-from-july-9-to-july-15&#34;&gt;📌 Week from July 9 to July 15&lt;/h2&gt;
+&lt;p&gt;This week, I started working on a small project — a chatbot for automating simple tasks. I’m using Python and a library for message processing.&lt;/p&gt;
+&lt;p&gt;At the same time, I’m reading a book on algorithms that I didn’t manage to fully cover during the semester. It’s fascinating to see how the theory studied at the university is now applied to real-world problems.&lt;/p&gt;
+&lt;p&gt;Even though the vacation is in full swing, I try to dedicate a couple of hours a day to studying and practice.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
